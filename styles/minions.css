@@ -1,0 +1,76 @@
+.navbar{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: rgb(30 106 159);
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 55px;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+body{
+overflow-x: hidden;
+}
+
+.button{
+
+display: flex;
+gap: 60px;
+text-decoration: none;
+   
+}
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 1.42857143;
+color: #333;
+background-color: #fff;
+margin: 0px;
+
+}
+
+.navbar-brand {
+color: #fff;
+font-size: 35px;
+float: left;
+height: 50px;
+padding: 15px 15px;
+line-height: 20px;
+text-decoration: none;
+}
+.navbar-taggle{
+display: none;
+}
+.navbar-brand a{
+text-decoration: none;
+}
+
+.nav {
+display: flex;
+justify-content: flex-start;
+gap: 50px;
+font-size: 15px;
+}
+.dropdown a,.btn a{
+color:#fff;
+text-decoration: none;
+}
+@media only screen and (max-width: 767px){
+.navbar{
+    width: 960px;
+}
+}
+@media only screen and (max-width: 320px){
+.mission-time{
+     position: relative;
+    right: 82px;
+}
+
+
+
+}

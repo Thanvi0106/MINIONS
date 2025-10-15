@@ -12,6 +12,8 @@ character information
 
 <img width="1919" height="847" alt="Screenshot 2025-10-15 131028" src="https://github.com/user-attachments/assets/c43b66bf-dbfb-4c19-bce8-b57ac6630a95" />
 
+
+
 <img width="1870" height="845" alt="Screenshot 2025-10-15 131043" src="https://github.com/user-attachments/assets/9b6a5eaa-8f26-4ad0-8656-ce711c63e6b7" />
 
 
